@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kate Karpenkova
 - 👀 I’m interested in Python, R, SQL, data analytics
-- 👀 I speak English and Russian
 - 📫 How to reach me karpenkovacavin@gmail.com
 
 <!---
