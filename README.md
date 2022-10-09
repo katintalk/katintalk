@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kate Karpenkova
-- 👀 I’m interested in Python, R, SQL, data analytics
+- 👀 I’m interested in ASP.NET Web API  |  C#/.NET  |  SQL  |  HTML  |  CSS  |  JavaScript  |  Vue.js  |  ADO.NET  |  Table Design  |  E/R diagrams  |  Unit Testing  |  Integration Testing  |  Unix  |  Git  |  Visual Studio  |  R  |  R studio  |  R visualization tools (ggplot)  |  SQL Server  |  SQLLite  |  Azure Data Studio  |  Jupiter Notebook  |  ActiveChat.ai  |  Tableau  |  Data Analytics
+
 - 📫 How to reach me karpenkovacavin@gmail.com
 
 <!---
